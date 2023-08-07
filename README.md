@@ -1,3 +1,4 @@
+> 🚧 WIP 🚧
 # arduino-multi-switch
 ## About
 > The spiritual successor of https://github.com/ledeniz/midi-footswitch-converter
